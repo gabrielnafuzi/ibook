@@ -7,7 +7,9 @@
 <script lang="ts">
 import Vue from 'vue'
 
-export default Vue.extend({})
+export default Vue.extend({
+  name: 'BookDetailsTemplate'
+})
 </script>
 
-<style scoped></style>
+<style lang="scss" scoped></style>
